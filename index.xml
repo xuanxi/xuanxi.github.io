@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>陈炫熙</title>
+    <title>日常对话</title>
     <link>https://xuanxi.github.io/</link>
-    <description>Recent content on 陈炫熙</description>
+    <description>Recent content on 日常对话</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://xuanxi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://xuanxi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>生日</title>
+      <link>https://xuanxi.github.io/posts/%E7%94%9F%E6%97%A5/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://xuanxi.github.io/posts/%E7%94%9F%E6%97%A5/</guid>
+      <description>&lt;p&gt;无力…&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>意识</title>
+      <link>https://xuanxi.github.io/posts/%E6%84%8F%E8%AF%86/</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://xuanxi.github.io/posts/%E6%84%8F%E8%AF%86/</guid>
+      <description>&lt;p&gt;意识到自身的需求，以及意识到对象是否能否响应自己的需求，这很重要。当我停留在大脑里和爸爸对话的时候，就处于无意识状态。在大脑里无法真正实现需求。&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>不满</title>
       <link>https://xuanxi.github.io/posts/%E4%B8%8D%E6%BB%A1/</link>
