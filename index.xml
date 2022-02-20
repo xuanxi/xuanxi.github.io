@@ -1,55 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>日常对话</title>
+    <title>Letters to Xue</title>
     <link>https://xuanxi.github.io/</link>
-    <description>Recent content on 日常对话</description>
+    <description>Recent content on Letters to Xue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://xuanxi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://xuanxi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>生日</title>
-      <link>https://xuanxi.github.io/posts/%E7%94%9F%E6%97%A5/</link>
-      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      <title>第一封信</title>
+      <link>https://xuanxi.github.io/posts/%E7%AC%AC%E4%B8%80%E5%B0%81%E4%BF%A1/</link>
+      <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://xuanxi.github.io/posts/%E7%94%9F%E6%97%A5/</guid>
-      <description>&lt;p&gt;无力…&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>意识</title>
-      <link>https://xuanxi.github.io/posts/%E6%84%8F%E8%AF%86/</link>
-      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://xuanxi.github.io/posts/%E6%84%8F%E8%AF%86/</guid>
-      <description>&lt;p&gt;意识到自身的需求，以及意识到对象是否能否响应自己的需求，这很重要。当我停留在大脑里和爸爸对话的时候，就处于无意识状态。在大脑里无法真正实现需求。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>不满</title>
-      <link>https://xuanxi.github.io/posts/%E4%B8%8D%E6%BB%A1/</link>
-      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://xuanxi.github.io/posts/%E4%B8%8D%E6%BB%A1/</guid>
+      <guid>https://xuanxi.github.io/posts/%E7%AC%AC%E4%B8%80%E5%B0%81%E4%BF%A1/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>尴尬</title>
-      <link>https://xuanxi.github.io/posts/%E5%B0%B4%E5%B0%AC/</link>
-      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://xuanxi.github.io/posts/%E5%B0%B4%E5%B0%AC/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>真实越远，死亡越近</title>
-      <link>https://xuanxi.github.io/posts/%E7%9C%9F%E5%AE%9E%E8%B6%8A%E8%BF%9C%E6%AD%BB%E4%BA%A1%E8%B6%8A%E8%BF%91/</link>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://xuanxi.github.io/posts/%E7%9C%9F%E5%AE%9E%E8%B6%8A%E8%BF%9C%E6%AD%BB%E4%BA%A1%E8%B6%8A%E8%BF%91/</guid>
-      <description>&lt;p&gt;昨晚重温大卫·芬奇的《社交网络》，发现扎克伯格边写博客边做网站的过程挺有意思的，这种随时把真实自我表达出来的感觉很爽，虽然他实际上只是酒后发泄。&lt;/p&gt;</description>
     </item>
     
   </channel>
